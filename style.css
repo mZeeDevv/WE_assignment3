@@ -33,5 +33,12 @@ h3 {
     color: #ffffff;
     padding: 10px;
     border-radius: 10px;
+}
+h2 {
+    text-align: center;
+}
+a {
+    color: black;
+    font-size: 17px;
     
 }
